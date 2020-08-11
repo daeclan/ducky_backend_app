@@ -1,0 +1,2 @@
+class Ducky < ApplicationRecord
+end
